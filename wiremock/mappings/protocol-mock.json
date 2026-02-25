@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/protocol/process"
+  },
+  "response": {
+    "status": 200,
+    "body": "{\"status\": \"SUCCESS\", \"message\": \"Processed successfully\"}",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

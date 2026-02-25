@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/sell/process"
+  },
+  "response": {
+    "status": 500,
+    "body": "Simulated failure"
+  }
+}

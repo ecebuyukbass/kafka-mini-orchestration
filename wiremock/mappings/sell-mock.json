@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/sell/process"
+  },
+  "response": {
+    "status": 200,
+    "body": "{\"status\": \"SUCCESS\", \"message\": \"Sell processed successfully\"}",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
